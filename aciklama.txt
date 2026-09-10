@@ -1,0 +1,1 @@
+Merhaba hocam uygulamayı test ettim çalışıyor. Program dogruluk_tablosu.txt dosyasını okuyarak değişken ve fonksiyon sayısını dinamik olarak algılamakta, her fonksiyon için minterimlerin toplamını ve maksterimlerin çarpımını 3 farklı formda ekrana yazmaktadır. Eksik satır durumunda belirsiz çıktısı verilmekte, kullanıcıdan girilen değerlere göre fonksiyon sonucu hesaplanmaktadır.
